@@ -25,7 +25,7 @@ Welcome to your new app.
     public void HandleSubmit(EditContext editContext)
     {
         var newCustomer = (Customer)editContext.Model;
-        newCustomer.CreatedDate = DateTime.Now;
+        newCustomer.CreatedData = DateTime.Now;
         customerService.AddCustomer(newCustomer);
     }
 }

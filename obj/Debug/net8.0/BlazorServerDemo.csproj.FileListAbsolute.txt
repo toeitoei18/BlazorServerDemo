@@ -135,3 +135,4 @@ C:\BlazorServerDemo\obj\Debug\net8.0\refint\BlazorServerDemo.dll
 C:\BlazorServerDemo\obj\Debug\net8.0\BlazorServerDemo.pdb
 C:\BlazorServerDemo\obj\Debug\net8.0\BlazorServerDemo.genruntimeconfig.cache
 C:\BlazorServerDemo\obj\Debug\net8.0\ref\BlazorServerDemo.dll
+C:\BlazorServerDemo\obj\Debug\net8.0\BlazorServerDemo.sourcelink.json
